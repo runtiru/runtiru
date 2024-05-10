@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DevOps and AWS...
 - 💞️ I’m looking to collaborate on - Open Source Projects, Skill Sharing, Team Projects...
 - 📫 How to reach me - Feel free to reach out to me via [email](tirumalagadiya@gmail.com)
-- 😄 Pronouns: tiru 
+- 😄 Pronouns: @tiru 
 - ⚡ Fun fact: I can speak three languages fluently!
 
 
